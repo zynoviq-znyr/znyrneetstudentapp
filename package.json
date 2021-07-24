@@ -1,6 +1,6 @@
 {
   "name": "jitsi-meet-electron",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ZNYR NEET JEE",
   "main": "./build/main.js",
   "productName": "ZNYR NEET JEE",
